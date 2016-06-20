@@ -2,9 +2,9 @@
 
 (c) 2016 Ed Estes, Chris Hodapp, Ryan Anderson
 
-## Raspberry Pi UPS {#ups}
+## Raspberry Pi UPS
 
-### Existing projects {#others}
+### Existing projects
 
 - [UPSPIco](https://www.modmypi.com/raspberry-pi/breakout-boards/pi-modules/ups-pico)
 - [Pi UPS +](http://www.piups.net/)
@@ -14,7 +14,7 @@
       Simple Battery monitor daemon
 - [SmartUPS](http://www.mindsensors.com/rpi/41-uninterruptible-power-supply-for-raspberry-pi)
 
-### Parts to look at {#parts}
+### Parts to look at
 
 - [AdaFruit charger](https://www.adafruit.com/product/390)
     - Based on [MCP73871](https://www.microchip.com/wwwproducts/en/MCP73871)
@@ -22,7 +22,7 @@
 - [AdaFruit PowerBoost 1000 charger](https://www.adafruit.com/products/2465)
     - Based on MCP73871 and TI [TPS61090](http://www.ti.com/product/tps61090)
 
-## Standards to take note of {#standards}
+## Standards to take note of
 
 - [HAT, Hardware Attached on Top](https://www.raspberrypi.org/blog/introducing-raspberry-pi-hats/)
     - [GitHub repo](https://github.com/raspberrypi/hats)
