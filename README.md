@@ -21,7 +21,7 @@
     - 1A max may be insufficient, however, this seems to do the pass-through charging that we'll need.
 - [AdaFruit PowerBoost 1000 charger](https://www.adafruit.com/products/2465)
     - Based on MCP73871 and TI [TPS61090](http://www.ti.com/product/tps61090)
-    - This handles more power than the one linked above due.
+    - This handles more power than the one linked above.
 - [SparkFun Power Cell](https://www.sparkfun.com/products/11231)
     - Based on MCP73871 and TI TPS61200.
     - Less-capable, but has schematics available.
