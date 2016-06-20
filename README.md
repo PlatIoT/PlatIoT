@@ -2,7 +2,9 @@
 
 (c) 2016 Ed Estes, Chris Hodapp, Ryan Anderson
 
-## Existing Projects
+## Raspberry Pi UPS
+
+### Existing Projects
 
 - [UPSPIco](https://www.modmypi.com/raspberry-pi/breakout-boards/pi-modules/ups-pico)
 - [Pi UPS +](http://www.piups.net/)
